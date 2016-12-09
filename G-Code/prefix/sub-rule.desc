@@ -1,0 +1,7 @@
+###
+### sub-rule.desc -- 補助ルールの説明
+###
+
+g-code-qwerty.rule	g-code-qwerty.conf	漢字直接入力「G-Code」を使う(Qwerty用)
+g-code-dvorak.rule	g-code-dvorak.conf	漢字直接入力「G-Code」を使う(Dvorak用)
+g-code-colemak.rule	g-code-colemak.conf	漢字直接入力「G-Code」を使う(Colemak用)

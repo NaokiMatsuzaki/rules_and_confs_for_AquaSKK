@@ -1,0 +1,7 @@
+###
+### sub-rule.desc -- 補助ルールの説明
+###
+
+t-code-qwerty.rule	t-code-qwerty.conf	漢字直接入力「T-Code」を使う(Qwerty用)
+t-code-dvorak.rule	t-code-dvorak.conf	漢字直接入力「T-Code」を使う(Dvorak用)
+t-code-colemak.rule	t-code-colemak.conf	漢字直接入力「T-Code」を使う(Colemak用)

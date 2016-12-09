@@ -1,0 +1,7 @@
+###
+### sub-rule.desc -- 補助ルールの説明
+###
+
+tut-code-qwerty.rule	tut-code-qwerty.conf	漢字直接入力「TUT-Code」を使う(Qwerty用)
+tut-code-dvorak.rule	tut-code-dvorak.conf	漢字直接入力「TUT-Code」を使う(Dvorak用)
+tut-code-colemak.rule	tut-code-colemak.conf		漢字直接入力「TUT-Code」を使う(Colemak用)

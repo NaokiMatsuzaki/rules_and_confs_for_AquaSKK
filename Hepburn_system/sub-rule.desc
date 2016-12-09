@@ -1,0 +1,6 @@
+###
+### sub-rule.desc -- 補助ルールの説明
+###
+
+hepburn-hatsuon.rule	ヘボン式撥音規則を使う(mb/mm/mp)
+hepburn-sokuon.rule	ヘボン式促音規則を使う(tch)

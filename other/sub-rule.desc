@@ -1,0 +1,7 @@
+###
+### sub-rule.desc -- 補助ルールの説明
+###
+
+zenkaku-space.rule スペースを全角にする
+romaji-nn.rule	ん+な行をnnで入力する
+romaji-dji-dzu.rule	ぢ,づをdji,dzuでも入力する
